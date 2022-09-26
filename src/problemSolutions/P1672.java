@@ -1,4 +1,4 @@
-package easy;
+package problemSolutions;
 
 public class P1672 {
 	public static int maximumWealth(int[][] accounts) {

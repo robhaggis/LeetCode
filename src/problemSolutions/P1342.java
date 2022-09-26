@@ -1,4 +1,4 @@
-package easy;
+package problemSolutions;
 
 public class P1342 {
 

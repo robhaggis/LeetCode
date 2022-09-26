@@ -1,4 +1,4 @@
-package easy;
+package problemSolutions;
 
 public class P0383 {
 	public static boolean canConstruct(String ransomNote, String magazine) {

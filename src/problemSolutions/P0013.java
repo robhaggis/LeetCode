@@ -1,4 +1,4 @@
-package easy;
+package problemSolutions;
 
 public class P0013 {
 	 public static int romanToInt(String s) {
